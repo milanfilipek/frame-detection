@@ -1,0 +1,74 @@
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csprojAssemblyReference.cache
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csproj.CoreCompileInputs.cache
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\concrt140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\cvextern.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\msvcp140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\vcruntime140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\concrt140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\cvextern.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\msvcp140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\vcruntime140.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.exe.config
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.exe
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.pdb
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.World.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ZedGraph.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.World.xml
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ZedGraph.xml
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csproj.CopyComplete
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.exe
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\concrt140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\cvextern.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\msvcp140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x64\vcruntime140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\concrt140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\cvextern.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\msvcp140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\x86\vcruntime140.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.exe.config
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\cameraImg.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.UI.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.World.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ZedGraph.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.UI.xml
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\Emgu.CV.World.xml
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ZedGraph.xml
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csproj.AssemblyReference.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csproj.CoreCompileInputs.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.csproj.CopyComplete
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\cameraImg\cameraImg\obj\Debug\cameraImg.pdb
