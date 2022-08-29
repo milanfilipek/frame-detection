@@ -1,5 +1,5 @@
 # Frame detection app
- Simple C# that can do frame detection from webcam output, and many more things like gauss filtering etc.
+ Simple C# app, that can do frame detection from webcam output, and many more things like gauss filtering etc.
  
 ## Features
 - Frame detection
